@@ -1,6 +1,6 @@
 {
   "name": "d-kachor-virtual-api",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A library for handling API schemas",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -21,7 +21,6 @@
     "url": "https://github.com/davidkachor/virtual-api/issues"
   },
   "homepage": "https://github.com/davidkachor/virtual-api#readme",
-  
   "devDependencies": {
     "ts-node": "^10.9.2",
     "tsup": "^8.3.5",
