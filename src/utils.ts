@@ -3,6 +3,6 @@ export function delay(ms: number) {
 }
 
 export function getRandomIndex(max: number) {
-  if (max < 0) return 0;
+  if (max < 0) return 0; 
   return Math.floor(Math.random() * max);
 }
