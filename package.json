@@ -1,6 +1,6 @@
 {
   "name": "d-kachor-virtual-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A library for handling API schemas",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
