@@ -1,0 +1,30 @@
+{
+  "name": "d-kachor-virtual-api",
+  "version": "1.0.0",
+  "description": "A library for handling API schemas",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsup"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidkachor/virtual-api.git"
+  },
+  "author": "David Kachor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidkachor/virtual-api/issues"
+  },
+  "homepage": "https://github.com/davidkachor/virtual-api#readme",
+  
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "tsup": "^8.3.5",
+    "typescript": "^5.7.3"
+  }
+}
